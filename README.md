@@ -42,8 +42,8 @@ A modern and responsive **employee management system** built with **React.js and
 
 > Replace the below image links with your own uploaded images (GitHub or ImgBB/Cloudinary/etc.)
 
-### 🧑‍💼 Admin Dashboard  
-<img src="" width="800" />
+
+<img src="Screenshot (1020).png" width="800" />
 
 ### 🧾 Task Board  
 <img src="" width="800" />
