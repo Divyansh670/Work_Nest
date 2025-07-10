@@ -44,15 +44,14 @@ A modern and responsive **employee management system** built with **React.js and
 
 
 <img src="Screenshot (1020).png" width="800" />
+ 
+<img src="Screenshot (1021).png" width="800" />
+ 
+<img src="Screenshot (1022).png" width="800" />
 
-### 🧾 Task Board  
-<img src="" width="800" />
+<img src="Screenshot (1023).png" width="800" />
 
-### 📅 Leave Management  
-<img src="" width="800" />
-
-### 👤 Employee View  
-<img src="" width="800" />
+<img src="Screenshot (1024).png" width="800" />
 
 ---
 
